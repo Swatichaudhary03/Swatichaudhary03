@@ -139,21 +139,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swatichaudhary03&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swatichaudhary03&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swatichaudhary03&layout=compact&theme=default" />
-</p>
-
----
 
 ## 📌 Currently Learning
 - Advanced Machine Learning Algorithms  
